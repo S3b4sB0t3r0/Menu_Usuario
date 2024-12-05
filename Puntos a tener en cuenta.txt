@@ -1,0 +1,6 @@
+-- crear usuario
+-- editar usuario
+-- eliminar usuario
+-- Listar usuario
+-- ver si tiene los datos completos o no completos 
+-- y listar dependiendo el caso
